@@ -1,0 +1,28 @@
+2021-05-02 12:56:24 INFO  ********* Starting Test Execution. ***********
+2021-05-02 12:57:04 INFO  ****************************
+2021-05-02 12:57:04 INFO  Scenario : Test Flipkart Automation Scenario
+2021-05-02 12:57:04 INFO  Scenario start time: 2021-05-02 12:57:04
+2021-05-02 12:57:06 INFO  Launching web application URL: https://www.google.com/
+2021-05-02 12:57:12 INFO  Clicking on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //*[@name='q']]
+2021-05-02 12:57:12 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //*[@name='q']]
+2021-05-02 12:57:12 INFO  Waiting for the element to be clickable : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //*[@name='q']]
+2021-05-02 12:57:12 INFO  Clicked on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //*[@name='q']]
+2021-05-02 12:57:12 INFO  Writing 'Flipkart' into web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //*[@name='q']]
+2021-05-02 12:57:12 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //*[@name='q']]
+2021-05-02 12:57:15 INFO  Clicking on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: (//*[@role='option'])[1]]
+2021-05-02 12:57:15 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: (//*[@role='option'])[1]]
+2021-05-02 12:57:15 INFO  Waiting for the element to be clickable : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: (//*[@role='option'])[1]]
+2021-05-02 12:57:26 INFO  Clicked on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: (//*[@role='option'])[1]]
+2021-05-02 12:57:26 INFO  Clicking on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //h3[text()='Flipkart']]
+2021-05-02 12:57:26 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //h3[text()='Flipkart']]
+2021-05-02 12:57:26 INFO  Waiting for the element to be clickable : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //h3[text()='Flipkart']]
+2021-05-02 12:57:40 INFO  Clicked on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //h3[text()='Flipkart']]
+2021-05-02 12:57:40 INFO  Clicking on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //button[text()='?']]
+2021-05-02 12:57:40 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //button[text()='?']]
+2021-05-02 12:57:40 INFO  Waiting for the element to be clickable : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //button[text()='?']]
+2021-05-02 12:57:41 INFO  Clicked on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //button[text()='?']]
+2021-05-02 12:57:41 INFO  Clicking on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //p[text()='TVs & Appliances']]
+2021-05-02 12:57:41 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //p[text()='TVs & Appliances']]
+2021-05-02 12:57:41 INFO  Waiting for the element to be clickable : [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //p[text()='TVs & Appliances']]
+2021-05-02 12:57:41 INFO  Clicked on web-element: [[ChromeDriver: chrome on XP (8b91db421e414ef8fb961c030da884fe)] -> xpath: //p[text()='TVs & Appliances']]
+2021-05-02 12:57:58 INFO  Clicking on web-element: Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Window ACs']'
